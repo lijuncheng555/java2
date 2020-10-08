@@ -88,6 +88,6 @@ private CPU cpu;
     ```
     
     五、实验结果：
-    
+    ![实验结果截图](https://github.com/lijuncheng555/java-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201008211721.png)
     
     
