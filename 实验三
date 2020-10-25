@@ -20,7 +20,7 @@
 
 2.除去主类，每个类中各定义了1个构造方法以及不同的属性，选取了对象特有的一些属性。
 
-3.在主类Test中通过创建了两个teacher，两个course，一个student。
+3.在主类Example中创建了两个teacher，两个course，一个student。
 
 4.调用set对变量赋值。
 
